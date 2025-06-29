@@ -10,7 +10,7 @@
 
 ## 🎥 Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sreeyadora/sorting-visualizer/main/assets/sorting-demo.gif" alt="Sorting Visualizer Demo" width="600" />
+  <img src="https://raw.githubusercontent.com/sreeyadora/sorting-visualizer/main/assets/sorting-demo.<img src="..." alt="Sorting Visualizer Demo" width="600" /> />
 </p>
 
 > ⚠️ **Replace this GIF link with your actual demo:**  
