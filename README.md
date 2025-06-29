@@ -8,15 +8,6 @@
 
 ---
 
-## 🎥 Demo
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreeyadora/sorting-visualizer/main/assets/sorting-demo.<img src="..." alt="Sorting Visualizer Demo" width="600" /> />
-</p>
-
-> ⚠️ **Replace this GIF link with your actual demo:**  
-> Upload your GIF to `/assets/sorting-demo.gif` in your repository.
-
----
 
 ## 📌 Description
 
